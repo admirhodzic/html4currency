@@ -1,6 +1,6 @@
 # HTML SELECT element for currency selection
-{::nomarkdown}
 
+```HTML
 <select name="currency">
 <option value="USD">United States dollar</option>
 <option value="EUR">European euro</option>
@@ -161,4 +161,4 @@
 <option value="YER">Yemeni rial</option>
 <option value="ZMW">Zambian kwacha</option>
 </select>
-{:/}
+```
